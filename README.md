@@ -1,2 +1,3 @@
-# Hazel
-Hazel Engine
+# MiniWorld
+
+MiniWorld Game Engine
